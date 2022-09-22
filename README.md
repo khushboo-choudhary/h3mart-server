@@ -1,5 +1,4 @@
 # H3mart
-H3Mart Back end task
 
 ### Initialize
 > run "npm init" in the terminal
